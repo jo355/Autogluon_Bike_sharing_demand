@@ -58,4 +58,4 @@ pip install jupyterlab
 7. Write up a report on how improvements (or not) were made by either creating additional features or tuning hyperparameters, and why you think one or the other is the best approach to invest more time in.
 
 ## License
-[License](LICENSE.txt)
+[License](LICENSE.md)
